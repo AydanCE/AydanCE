@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AydanCE
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning C# and Flutter
-- ⚡ Fun fact: Scared of Java
+- 👀 I’m interested Computer Graphics
+
 
 <!---
 AydanCE/AydanCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
